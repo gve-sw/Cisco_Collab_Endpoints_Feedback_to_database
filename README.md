@@ -1,13 +1,9 @@
 # Cisco_Collab_Endpoints_Feedback_to_database
 Cisco Collaboration Endpoints macro that collects feedback after a call and stores it in a remote database via simple Flask application.  
 
-| :exclamation:  External repository notice   |
-|:---------------------------|
-| This repository is now mirrored at "PLEASE UPDATE HERE - add External repo URL after code review is completed"  Please inform a https://github.com/gve-sw/ organization admin of any changes to mirror them to the external repo |
-
 ## Contacts
-* Gerardo Chaves
-* Rami Alfadel
+* Gerardo Chaves (gchaves@cisco.com)
+* Rami Alfadel (ralfadel@cisco.com)
 
 ## Solution Components
 * Collaboration Endpoints
